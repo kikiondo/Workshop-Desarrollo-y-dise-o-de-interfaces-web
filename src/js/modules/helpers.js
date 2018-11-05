@@ -1,0 +1,1 @@
+export const id = document.getElementById.bind(document) // Esto nos ayuda a consolo id hacer referencia al id
